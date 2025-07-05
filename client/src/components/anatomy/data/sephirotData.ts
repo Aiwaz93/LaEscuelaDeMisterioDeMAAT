@@ -1,0 +1,122 @@
+export const sephirotData = [
+  {
+    name: 'Kether',
+    type: 'Sephira',
+    x: 200,
+    y: 50,
+    description: 'La Corona. Representa la unidad primordial y la fuente de toda existencia.',
+    bodyPart: 'Corona de la cabeza',
+    hebrewLetter: 'Aleph',
+    tarotCard: 'El Loco',
+    attributes: ['Unidad', 'Fuente', 'Corona'],
+    element: 'Aire'
+  },
+  {
+    name: 'Chokmah',
+    type: 'Sephira',
+    x: 170,
+    y: 100,
+    description: 'La Sabiduría. Representa el principio masculino activo y la fuerza creativa.',
+    bodyPart: 'Lado derecho del cerebro',
+    hebrewLetter: 'Beth',
+    tarotCard: 'El Mago',
+    attributes: ['Sabiduría', 'Masculino', 'Activo'],
+    element: 'Fuego'
+  },
+  {
+    name: 'Binah',
+    type: 'Sephira',
+    x: 230,
+    y: 100,
+    description: 'La Comprensión. Representa el principio femenino receptivo y la forma.',
+    bodyPart: 'Lado izquierdo del cerebro',
+    hebrewLetter: 'Gimel',
+    tarotCard: 'La Sacerdotisa',
+    attributes: ['Comprensión', 'Femenino', 'Receptivo'],
+    element: 'Agua'
+  },
+  {
+    name: 'Chesed',
+    type: 'Sephira',
+    x: 150,
+    y: 200,
+    description: 'La Misericordia. Representa la expansión, la generosidad y el amor.',
+    bodyPart: 'Brazo derecho',
+    hebrewLetter: 'Daleth',
+    tarotCard: 'El Emperador',
+    attributes: ['Misericordia', 'Expansión', 'Amor'],
+    element: 'Agua'
+  },
+  {
+    name: 'Geburah',
+    type: 'Sephira',
+    x: 250,
+    y: 200,
+    description: 'La Fuerza. Representa la restricción, la justicia y el poder.',
+    bodyPart: 'Brazo izquierdo',
+    hebrewLetter: 'He',
+    tarotCard: 'El Hierofante',
+    attributes: ['Fuerza', 'Restricción', 'Justicia'],
+    element: 'Fuego'
+  },
+  {
+    name: 'Tiphereth',
+    type: 'Sephira',
+    x: 200,
+    y: 250,
+    description: 'La Belleza. Representa el equilibrio, la armonía y el corazón.',
+    bodyPart: 'Corazón',
+    hebrewLetter: 'Vav',
+    tarotCard: 'Los Enamorados',
+    attributes: ['Belleza', 'Equilibrio', 'Armonía'],
+    element: 'Aire'
+  },
+  {
+    name: 'Netzach',
+    type: 'Sephira',
+    x: 150,
+    y: 350,
+    description: 'La Victoria. Representa la emoción, la creatividad y la naturaleza.',
+    bodyPart: 'Cadera derecha',
+    hebrewLetter: 'Zayin',
+    tarotCard: 'El Carro',
+    attributes: ['Victoria', 'Emoción', 'Creatividad'],
+    element: 'Fuego'
+  },
+  {
+    name: 'Hod',
+    type: 'Sephira',
+    x: 250,
+    y: 350,
+    description: 'La Gloria. Representa la lógica, la comunicación y el intelecto.',
+    bodyPart: 'Cadera izquierda',
+    hebrewLetter: 'Cheth',
+    tarotCard: 'La Justicia',
+    attributes: ['Gloria', 'Lógica', 'Comunicación'],
+    element: 'Agua'
+  },
+  {
+    name: 'Yesod',
+    type: 'Sephira',
+    x: 200,
+    y: 450,
+    description: 'El Fundamento. Representa la Luna, los sueños y la imaginación.',
+    bodyPart: 'Órganos genitales',
+    hebrewLetter: 'Teth',
+    tarotCard: 'El Ermitaño',
+    attributes: ['Fundamento', 'Luna', 'Imaginación'],
+    element: 'Aire'
+  },
+  {
+    name: 'Malkuth',
+    type: 'Sephira',
+    x: 200,
+    y: 550,
+    description: 'El Reino. Representa la manifestación física y la Tierra.',
+    bodyPart: 'Pies',
+    hebrewLetter: 'Yod',
+    tarotCard: 'La Rueda de la Fortuna',
+    attributes: ['Reino', 'Manifestación', 'Tierra'],
+    element: 'Tierra'
+  }
+];

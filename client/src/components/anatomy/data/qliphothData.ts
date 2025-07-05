@@ -1,0 +1,122 @@
+export const qliphothData = [
+  {
+    name: 'Thaumiel',
+    type: 'Qliphah',
+    x: 180,
+    y: 30,
+    description: 'Los Gemelos de Dios. Representa la dualidad corrupta y la división.',
+    bodyPart: 'Parte posterior del cráneo',
+    hebrewLetter: 'Aleph invertida',
+    tarotCard: 'El Loco invertido',
+    attributes: ['Dualidad', 'División', 'Corrupción'],
+    element: 'Aire corrupto'
+  },
+  {
+    name: 'Ghagiel',
+    type: 'Qliphah',
+    x: 160,
+    y: 80,
+    description: 'Los Obstructores. Representa la sabiduría falsa y la confusión.',
+    bodyPart: 'Zona temporal derecha',
+    hebrewLetter: 'Beth invertida',
+    tarotCard: 'El Mago invertido',
+    attributes: ['Obstrucción', 'Confusión', 'Falsa sabiduría'],
+    element: 'Fuego corrupto'
+  },
+  {
+    name: 'Satariel',
+    type: 'Qliphah',
+    x: 240,
+    y: 80,
+    description: 'Los Ocultadores. Representa la comprensión velada y el secreto maligno.',
+    bodyPart: 'Zona temporal izquierda',
+    hebrewLetter: 'Gimel invertida',
+    tarotCard: 'La Sacerdotisa invertida',
+    attributes: ['Ocultación', 'Secreto', 'Comprensión velada'],
+    element: 'Agua corrupta'
+  },
+  {
+    name: 'Gha\'agsheblah',
+    type: 'Qliphah',
+    x: 130,
+    y: 180,
+    description: 'Los Perturbadores. Representa la misericordia corrompida.',
+    bodyPart: 'Hombro derecho',
+    hebrewLetter: 'Daleth invertida',
+    tarotCard: 'El Emperador invertido',
+    attributes: ['Perturbación', 'Misericordia corrupta', 'Caos'],
+    element: 'Agua corrupta'
+  },
+  {
+    name: 'Golachab',
+    type: 'Qliphah',
+    x: 270,
+    y: 180,
+    description: 'Los Incendiarios. Representa la fuerza destructiva descontrolada.',
+    bodyPart: 'Hombro izquierdo',
+    hebrewLetter: 'He invertida',
+    tarotCard: 'El Hierofante invertido',
+    attributes: ['Incendio', 'Destrucción', 'Fuerza descontrolada'],
+    element: 'Fuego corrupto'
+  },
+  {
+    name: 'Thagirion',
+    type: 'Qliphah',
+    x: 220,
+    y: 230,
+    description: 'Los Disputadores. Representa la belleza falsa y la discordia.',
+    bodyPart: 'Zona del corazón (sombra)',
+    hebrewLetter: 'Vav invertida',
+    tarotCard: 'Los Enamorados invertido',
+    attributes: ['Disputa', 'Belleza falsa', 'Discordia'],
+    element: 'Aire corrupto'
+  },
+  {
+    name: 'Harab Serapel',
+    type: 'Qliphah',
+    x: 130,
+    y: 330,
+    description: 'Los Cuervos de la Muerte. Representa la victoria corrupta.',
+    bodyPart: 'Zona lumbar derecha',
+    hebrewLetter: 'Zayin invertida',
+    tarotCard: 'El Carro invertido',
+    attributes: ['Muerte', 'Victoria corrupta', 'Cuervo'],
+    element: 'Fuego corrupto'
+  },
+  {
+    name: 'Samael',
+    type: 'Qliphah',
+    x: 270,
+    y: 330,
+    description: 'Los Mentirosos. Representa la gloria falsa y el engaño.',
+    bodyPart: 'Zona lumbar izquierda',
+    hebrewLetter: 'Cheth invertida',
+    tarotCard: 'La Justicia invertida',
+    attributes: ['Mentira', 'Gloria falsa', 'Engaño'],
+    element: 'Agua corrupta'
+  },
+  {
+    name: 'Gamaliel',
+    type: 'Qliphah',
+    x: 180,
+    y: 430,
+    description: 'Los Obscenos. Representa la imaginación pervertida.',
+    bodyPart: 'Zona genital (sombra)',
+    hebrewLetter: 'Teth invertida',
+    tarotCard: 'El Ermitaño invertido',
+    attributes: ['Obscenidad', 'Imaginación pervertida', 'Lujuria'],
+    element: 'Aire corrupto'
+  },
+  {
+    name: 'Lilith',
+    type: 'Qliphah',
+    x: 220,
+    y: 530,
+    description: 'La Reina de la Noche. Representa la manifestación negativa.',
+    bodyPart: 'Planta de los pies',
+    hebrewLetter: 'Yod invertida',
+    tarotCard: 'La Rueda de la Fortuna invertida',
+    attributes: ['Noche', 'Manifestación negativa', 'Seducción'],
+    element: 'Tierra corrupta'
+  }
+];
